@@ -5,7 +5,7 @@
             "name": "Catlock KiCad Component Library",
             "description": "Custom component library with symbols, footprints, and 3D models.",
             "description_full": "Custom component library with symbols, footprints, and 3D models.",
-            "identifier": "org.catlock.kicad_library",
+            "identifier": "org.catlock.kicad-library",
             "type": "library",
             "author": {
                 "name": "Catlock team",
